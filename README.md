@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on open source projects and projects about making our lives simplier especially with how we transact with money in our day to day lives.
 - 📫 How to reach me you can reach by email: miguelledesma33@gmail.com or via LinkedIn www.linkedin.com/in/miguel-ledesma-720s
 
+- 🤖 Languages 
+   - Javascript 
+   - HTML
+   - CSS
+   - Git Flow
+   
+
 
 <!---
 miguelaledesma/miguelaledesma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
