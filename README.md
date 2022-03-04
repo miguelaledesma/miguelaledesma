@@ -6,6 +6,7 @@
 
 - 🤖 Languages 
    - Javascript 
+   - React
    - HTML
    - CSS
    - Git Flow
