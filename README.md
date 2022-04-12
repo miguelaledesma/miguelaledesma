@@ -4,12 +4,15 @@
 - 💞️ I’m looking to collaborate on open source projects and projects about making our lives simplier especially with how we transact with money in our day to day lives.
 - 📫 How to reach me? You can reach me by email: miguelledesma33@gmail.com or via LinkedIn www.linkedin.com/in/miguel-ledesma-720s
 
-- 🤖 Languages 
+- 🤖 Skills 
    - Javascript 
    - React
-   - HTML
-   - CSS
+   - Material UI
+   - HTML/CSS
    - Git Flow
+   - Cypress
+   - Redux
+   - Express & Node.js 
 
 
 - 🧠 My Favorite Quotes: 
