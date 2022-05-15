@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Miguel A. Ledesma! Thank you for visiting my GitHub!
+<h3 align="left">👋 Hi, I’m Miguel A. Ledesma! Thank you for visiting my GitHub!</h3>
+
 - 👀 I’m interested in start-ups and technology that makes our lives better. 
 - 🌱 I’m currently learning how to create and maintain web applications. 
 - 💞️ I’m looking to collaborate on open source projects and projects about making our lives simplier especially with how we transact with money in our day to day lives.
@@ -9,7 +10,7 @@
 
 
 
-- 🧠 My Favorite Quotes: 
+<h3 align="left">🧠 My Favorite Quotes:</h3>
    - “ The most profound technologies are those that disappear. They weave themselves in the fabric of everyday life until they are indistiguinshiable from it”  - Mark Weiser
    
    - “If you love what you do, and it’s making you happy, all the hard work and perseverance will pay off…I encourage you to always be curious and seek out things you love…” - Kobe Bryant
