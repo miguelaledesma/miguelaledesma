@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m Miguel A. Ledesma! Thank you for visiting my GitHub!</h3>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px"> Hi, I’m Miguel A. Ledesma! Thank you for visiting my GitHub!</h3>
 
 - 👀 I’m interested in start-ups and technology that makes our lives better. 
 - 🌱 I’m currently learning how to create and maintain web applications. 
