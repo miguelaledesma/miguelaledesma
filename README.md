@@ -12,7 +12,7 @@
 
 <h3 align="left">🧠 My Favorite Quotes:</h3>
 
-- “ The most profound technologies are those that disappear. They weave themselves in the fabric of everyday life until they are indistinguishable from it”  - Mark Weiser
+- “The most profound technologies are those that disappear. They weave themselves in the fabric of everyday life until they are indistinguishable from it”  - Mark Weiser
    
 - “If you love what you do, and it’s making you happy, all the hard work and perseverance will pay off…I encourage you to always be curious and seek out things you love…” - Kobe Bryant
    
