@@ -1,8 +1,9 @@
 <h3 align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> Hi, I’m Miguel A. Ledesma! Thank you for visiting my GitHub!</h3>
 
-- 👀 I’m interested in start-ups and technology that makes our lives better. 
-- 🌱 I’m currently learning how to create and maintain web applications. 
-- 💞️ I’m looking to join a team that work on products that make people's lives simpler, especially with how we transact with money in our day to day lives.
+- 👀 I’m interested technology that makes our lives better and changes the world as we know it. 
+- 🌱 I’m currently an intern at cloud hosting start up for Urbit. 
+- 💞️ I’m looking to join a team who cares about continually improving everyone around them. 
+- 👀 I love basketball, playing Kanoodle on my free time and being in the sun (to get a tan lol). 
 - 📫 How to reach me? You can reach me by email: miguelledesma33@gmail.com or via LinkedIn www.linkedin.com/in/miguel-ledesma-720s
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
