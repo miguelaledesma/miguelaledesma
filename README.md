@@ -2,7 +2,7 @@
 
 - 👀 I’m interested technology that makes our lives better and changes the world as we know it. 
 - 🌱 I’m currently an intern at cloud hosting start up for Urbit. 
-- 💞️ I’m looking to join a team who cares about continually improving everyone around them. 
+- 💞️ I'm interested in joining a team where I can ship code at scale and have immense impact. 
 - 👀 I love basketball, playing Kanoodle on my free time and being in the sun (to get a tan lol). 
 - 📫 How to reach me? You can reach me by email: miguelledesma33@gmail.com or via LinkedIn www.linkedin.com/in/miguel-ledesma-720s
 
