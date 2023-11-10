@@ -8,7 +8,7 @@ NYC
 
 🏹 **What I'm looking for**
 
-I always have my eye out on opportunities that will continue advancing my career! Currently [Unqork](https://unqork.com) and building [Databridge](https://databridge-cms.com). 
+I always have my eye out on opportunities that will continue advancing my career! Currently [Unqork](https://unqork.com) and building Databridge. 
 
 👀 **I am especially interested in**
 
