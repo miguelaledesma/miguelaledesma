@@ -4,7 +4,7 @@ My name is Miguel, and I'm a software engineer with a passion for helping people
 
 🌎 **Location**
 
-NYC
+NYC | SF | LA 
 
 🏹 **What I'm looking for**
 
