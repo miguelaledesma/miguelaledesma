@@ -4,16 +4,14 @@ My name is Miguel, and I'm a software engineer with a passion for helping people
 
 🌎 **Location**
 
-NYC | SF | LA 
-
-Currently [Unqork](https://unqork.com). 
+NYC | SF | LA | ATX 
 
 😎 **Projects**
 - Hey Ruby - AI Trucking CRM
 - SITH ATHLETICS - Fitness wear
 - Forever WhiteBelt Official
 - Databridge - No code CMS
-- Flockr - Partiful for Group Travel
+- Flockr Labs
 
 🧠 **My Favorite Quotes:** 
 
